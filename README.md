@@ -1,10 +1,11 @@
 # Pairs
+## ⚠️ARCHIVED PROJECT
+
+**This is an archived project from my bootcamp with [Code Institute](https://codeinstitute.net) in 2023, kept for historical reference. It does not represent my current skill level or tech stack.**
+
 This site is a fun and playful remake of the classic card matching game Pairs. The game is played by clicking on cards to reveal an array of random items, ranging from pizza slices and burgers, to motorcycles and space shuttles. Players have to turn over two cards at a time, with the aim of finding a matching pair. Those that complete the game within the given number of attempts have a chance of being entered onto the leaderboard.
 
 This game is a great test of memory, concentration and focus. Memory games such as Pairs have been shown to improve cognitive abilities over the long term. 
-
-## Live Site 
-[https://alexsmall96.github.io/Pairs/](https://alexsmall96.github.io/Pairs/)
 
 ![](assets/documentation/images/am-i-responsive.png)
 ![](assets/documentation/images/responsive2.png)
